@@ -1,0 +1,49 @@
+Libro Estadistica para python.
+Tarea:
+
+----------------------------------------------
+Conjunto de Librerias me ayuda para hacer machine learning
+Libreria de Python para dataset
+pandas
+polar 
+----------------------------------------------
+*modelo matematico que pesa variables para detectar un problema
+*siempre que pones un valor me da resultado
+*siempre obtener una muestra y varia poco 
+*tipos de atributos: nominales, categoria discreata y otro mas 
+*rapidmainler
+*taxonomia de los algoritmos
+-Black box, transparent Box.
+-robot-> no supervisado y redes neuronales 
+translape->  
+Errores
+RMSE = eror cuadratico medio -> disminuir el error imposible poner erro 0 solo si es statatico vale poner 0 sino el dinamico nunca 
+Coenficiente de determinacion = overfiting -> bien entrenado perfecto pero solo con ciertos datos 
+----------------------------------
+-ramdom forest-> mejor 
+-> entender el negocio-> mineria de datos , limpieza, exploracion , machine learning -> visualizar 
+-------------------------------------
+perspectiva basica -> como el dar credito 
+---------------------------------------------------------------------
+perspectiva probalistica -> probabilidad 
+---------------------------------------------------------------
+Datos de nosotros para determinar si paso o no paso 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------

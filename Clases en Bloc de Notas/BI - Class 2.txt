@@ -1,0 +1,5 @@
+Inteligencia de Negocios (BI)
+-----------------------------------------
+analisis de datos , mineria de datos, visualizacion de datos, herramientas e infractructura de datos, ayuda a tomar desiciones mas basadas en los datos. 
+-----------------------------------------
+Predecir el futuro

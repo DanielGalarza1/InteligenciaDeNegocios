@@ -1,0 +1,15 @@
+*pip list 
+*pip freeze
+*pip install virtualenv 
+*virtualenv penv 
+*.\penv\Scripts\activate
+*deactivate
+*pip install folium
+*pip install matplotlib
+*!pip install -U scikit-learn
+*pip install pandas
+------------------------------------------------
+tangente hiperbolica
+tanh
+sinh
+cosh
